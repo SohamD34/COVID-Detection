@@ -3,10 +3,10 @@ A machine learning based approach to detect COVID cases from X-ray scans of abdo
 
 ## Dataset
 The dataset is derived from multiple sources that provided with the images of chest X-rays of COVID affected, normal pneumoniac and healthy people. The sources are cited below.
-https://github.com/ieee8023/covid-chestxray-dataset
-https://sirm.org/category/senza-categoria/covid-19/
-https://github.com/armiro/COVID-CXNet
-https://eurorad.org/
+1. https://github.com/ieee8023/covid-chestxray-dataset
+2. https://sirm.org/category/senza-categoria/covid-19/
+3. https://github.com/armiro/COVID-CXNet
+4. https://eurorad.org/
 
 Preprocessing - 
 Resizing and grey-cosing of the image data to ensure uniformity
