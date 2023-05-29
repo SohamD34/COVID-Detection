@@ -9,7 +9,7 @@ The dataset is derived from multiple sources that provided with the images of ch
 4. https://eurorad.org/
 
 Preprocessing - 
-Resizing and grey-cosing of the image data to ensure uniformity
+Resizing and grey-coding of the image data to ensure uniformity
 Conversion of images to pixel value data
 Dimensionality reduction using PCA and ICA
 
