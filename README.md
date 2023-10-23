@@ -22,16 +22,18 @@ The model employs Supervised Learning techniques to make predictions regarding t
 
 After conducting the implementations, a comparative analysis of these models was performed, considering the results obtained. The highest achieved testing accuracy approaches an impressive 98%, demonstrating its exceptional performance in real-world scenarios.
 
-## Execution
+## Setup
 Create new Python environment
-'''
-conda create -n ENV python=3.9
-'''
+```
+conda create -n pyenv python=3.9
+```
 Activate the environment.
-'''
-conda activate ENV
-'''
-Installing required libraries
-'''
+```
+conda activate pyenv
+```
+
+## Libraries
+Navigate to the project directory in your terminal.
+```
 pip install -r requirements.txt
-'''
+```
