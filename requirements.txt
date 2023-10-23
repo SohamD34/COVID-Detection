@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+PIL
+math
+sklearn
+seaborn
+scipy
+cv2
+torchvision
+xgboost
