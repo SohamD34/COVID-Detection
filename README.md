@@ -21,3 +21,17 @@ The model employs Supervised Learning techniques to make predictions regarding t
 5. SVM (kernel functions varied)
 
 After conducting the implementations, a comparative analysis of these models was performed, considering the results obtained. The highest achieved testing accuracy approaches an impressive 98%, demonstrating its exceptional performance in real-world scenarios.
+
+## Execution
+Create new Python environment
+'''
+conda create -n ENV python=3.9
+'''
+Activate the environment.
+'''
+conda activate ENV
+'''
+Installing required libraries
+'''
+pip install -r requirements.txt
+'''
